@@ -1,3 +1,11 @@
+**COMPANY**: CODTECH IT SOLUTIONS<br>
+**NAME**: Gagan Mandal<br>
+**INTERN**: CT08JWM<br>
+**DOMAIN**: React.js Web Development<br>
+**BATCH DURATION**: January 5th, 2025 to February 5th, 2025<br>
+**MENTOR NAME**: Neela Santhosh Kumar<br>
+
+
 # Productivity Chrome Extension with ReactJS
 
 A Chrome extension to improve user productivity on the browser built with ReactJS.
